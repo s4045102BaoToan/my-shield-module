@@ -1,3 +1,4 @@
+#include "Ennanas.dtsi"
 / {
     kscan0: kscan0 {
         compatible = "zmk,kscan-gpio-matrix";
